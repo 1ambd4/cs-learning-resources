@@ -3,6 +3,7 @@
 - [Introduction to Computer Science](#Introduction-to-Computer-Science)
 - [Math for Computer Scientist](#Math-for-Computer-Scientist)
 - [Machine Learning](#Machine-Learning)
+- [Computer Organization and Architecture](#Computer-Organization-and-Architecture)
 
 ## Courses
 
@@ -20,3 +21,8 @@
 
 - **Deep Learning**
     - [Machine Learning, Hung-yi Lee, NTU](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
+
+### Computer Organization and Architecture
+- **Computer Organization**
+    - [计算机硬件系统设计, HUST](https://www.icourse163.org/course/HUST-1205809816)
+
