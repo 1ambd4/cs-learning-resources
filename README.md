@@ -9,7 +9,8 @@
 
 ### Introduction to Computer Science
 
-- [CS 50x - Introduction to Computer Science, Harvard University](https://cs50.harvard.edu/x/2022/)
+- [The Missing Semester of Your CS Education, MIT](https://missing.csail.mit.edu/)
+- [CS 50x - Introduction to Computer Science, Harvard](https://cs50.harvard.edu/x/2022/)
 
 
 ### Math for Computer Scientist
