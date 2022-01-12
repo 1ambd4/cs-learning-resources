@@ -1,6 +1,7 @@
 ## Table of Contents
 
 - [Introduction to Computer Science](#Introduction-to-Computer-Science)
+- [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 - [Math for Computer Scientist](#Math-for-Computer-Scientist)
 - [Machine Learning](#Machine-Learning)
 - [Computer Organization and Architecture](#Computer-Organization-and-Architecture)
@@ -12,6 +13,9 @@
 - [The Missing Semester of Your CS Education, MIT](https://missing.csail.mit.edu/)
 - [CS 50x - Introduction to Computer Science, Harvard](https://cs50.harvard.edu/x/2022/)
 
+### Data Structures and Algorithms
+
+- [CS 61B - Data Structures, Berkeley](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
 
 ### Math for Computer Scientist
 
