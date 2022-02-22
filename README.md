@@ -6,6 +6,7 @@
 - [Machine Learning](#Machine-Learning)
 - [Computer Organization and Architecture](#Computer-Organization-and-Architecture)
 - [Software Engineering](#Software-Engineering)
+- [Application Development](#Application-Development)
 
 ## Courses
 
@@ -37,3 +38,7 @@
 ### Software Engineering
 - **Design Pattern**
     - [设计模式, GeekBand]
+
+### Application Development
+
+- [CS 193A - Android App Development, Stanford](http://cs193a.stanford.edu/)
