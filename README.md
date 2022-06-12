@@ -6,6 +6,7 @@
 - [Machine Learning](#Machine-Learning)
 - [Computer Organization and Architecture](#Computer-Organization-and-Architecture)
 - [Software Engineering](#Software-Engineering)
+- [Programming Languages](#Programming-Languages)
 - [Application Development](#Application-Development)
 
 ## Courses
@@ -16,28 +17,38 @@
 - [CS 50x - Introduction to Computer Science, Harvard](https://cs50.harvard.edu/x/2022/)
 - [6.001 - Structure and Interpretation of Computer Programs, MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 
+
 ### Data Structures and Algorithms
 
 - [CS 61B - Data Structures, Berkeley](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
 - [邓俊辉算法训练营, THU]
 
+
 ### Math for Computer Scientist
 
 - **Linear Algebra**
-    - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+
 
 ### Machine Learning
 
 - **Deep Learning**
     - [Machine Learning, Hung-yi Lee, NTU](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
+
 ### Computer Organization and Architecture
 - **Computer Organization**
     - [计算机硬件系统设计, HUST](https://www.icourse163.org/course/HUST-1205809816)
 
+
 ### Software Engineering
 - **Design Pattern**
     - [设计模式, GeekBand]
+
+
+### Programming Languages
+- **Program Analysis**
+    - [Static Program Analysis, NJU](https://tai-e.pascal-lab.net/lectures.html)
 
 ### Application Development
 
