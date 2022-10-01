@@ -7,6 +7,7 @@
 - [Computer Organization and Architecture](#Computer-Organization-and-Architecture)
 - [Software Engineering](#Software-Engineering)
 - [Programming Languages](#Programming-Languages)
+- [Compilers](#Compilers)
 - [Application Development](#Application-Development)
 
 ## Courses
@@ -42,13 +43,23 @@
 
 
 ### Software Engineering
+
 - **Design Pattern**
     - [设计模式, GeekBand]
 
 
 ### Programming Languages
+
 - **Program Analysis**
     - [Static Program Analysis, NJU](https://tai-e.pascal-lab.net/lectures.html)
+
+
+### Compilers
+
+- [CS 143 - Compilers, Stanford](https://web.stanford.edu/class/cs143/)  
+- [编译原理, USTC](https://mooc.study.163.com/course/1000002001#/info)
+- [编译原理, HIT](https://www.icourse163.org/course/HIT-1002123007)
+
 
 ### Application Development
 
